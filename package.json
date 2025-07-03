@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/KLMkleriston/cardapio_Hamburgueria/issues"
   },
-  "homepage": "https://github.com/KLMkleriston/cardapio_Hamburgueria#readme"
+  "homepage": "https://github.com/KLMkleriston/cardapio_Hamburgueria#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
 }
